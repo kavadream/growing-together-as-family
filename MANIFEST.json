@@ -2,7 +2,7 @@
   "title": "一家人怎样共同成长",
   "author": "KK",
   "version": "draft-v0.1",
-  "review_status": "awaiting author review",
+  "review_status": "content accepted by author",
   "files": [
     {
       "path": "BOOK.md",
@@ -21,8 +21,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2169,
-      "sha256": "fb0b5456eef067f46b7d43607906753531a1b1556fa513a2f300ee1cab6b7759"
+      "bytes": 2306,
+      "sha256": "b1c6d8d0e4201178debbd60beb8067220cf4d2cae573b336b86c19fd2729325b"
     },
     {
       "path": "chapters/00-front.md",
@@ -101,8 +101,8 @@
     },
     {
       "path": "metadata.json",
-      "bytes": 861,
-      "sha256": "b5f9babdc18c86be56fb160372d16a6db0cb2e796fbc1748f95b40b7de98846b"
+      "bytes": 865,
+      "sha256": "625941b77dfab5bc3ae8353dfc5aaff1058de78014f4fe92ee770fd08e0260ef"
     },
     {
       "path": "sources/README.md",
