@@ -1,0 +1,113 @@
+{
+  "title": "一家人怎样共同成长",
+  "author": "KK",
+  "version": "draft-v0.1",
+  "review_status": "awaiting author review",
+  "files": [
+    {
+      "path": "BOOK.md",
+      "bytes": 75700,
+      "sha256": "7f0251b041aa216d57b0f23b33cbbcbc1fe36357a229a4ee882f24f94ba3ccfb"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 271,
+      "sha256": "5abd9aa5eb2bebd30c4f55c70e1dc753bdbc4afea6aecfa669094395c1d3f165"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1635,
+      "sha256": "9fe2deeaf2a260bceca2fe2e6bce77c35e423d77458f618656f130cefff37a29"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2169,
+      "sha256": "fb0b5456eef067f46b7d43607906753531a1b1556fa513a2f300ee1cab6b7759"
+    },
+    {
+      "path": "chapters/00-front.md",
+      "bytes": 2819,
+      "sha256": "6742ee8717caae6f6dd452a34e1572a590b589d870902e741a19aeeece1578d1"
+    },
+    {
+      "path": "chapters/01.md",
+      "bytes": 5228,
+      "sha256": "9ae38a9d3ca2ebae8cd77cdf068ae5e2d81034c6727bf71079a92a82164473fa"
+    },
+    {
+      "path": "chapters/02.md",
+      "bytes": 4856,
+      "sha256": "82674be12a7a51167226b7db08aae6fccc5e6987c70eb40041ac843a5ec426d4"
+    },
+    {
+      "path": "chapters/03.md",
+      "bytes": 4838,
+      "sha256": "14c1d45011708467c23786e91a7027f6c27a7a8d7839e0d1915025fe20dd03ba"
+    },
+    {
+      "path": "chapters/04.md",
+      "bytes": 4978,
+      "sha256": "8315dd18f37f33825192dbbfbb731b802db74d91bd9994bebf9b73af598f7ade"
+    },
+    {
+      "path": "chapters/05.md",
+      "bytes": 4856,
+      "sha256": "1d2c29873d6b545cf485d5321f259aaca1f7be36f612379bd18d804a8af78fac"
+    },
+    {
+      "path": "chapters/06.md",
+      "bytes": 4899,
+      "sha256": "afbeb0372b8e56f078b259c35f11b667b9b32bca141a174a7b4976e3607fc14f"
+    },
+    {
+      "path": "chapters/07.md",
+      "bytes": 5093,
+      "sha256": "40d9ba6f6d3486f08dcb614f72a5c2ea2c3a66e43c53cddb0698d64242d82d21"
+    },
+    {
+      "path": "chapters/08.md",
+      "bytes": 4941,
+      "sha256": "d8dbe7ee2a4dbedc3b0ae8551945c9234e9faf01ed44b48682070fb92bc38f6a"
+    },
+    {
+      "path": "chapters/09.md",
+      "bytes": 4802,
+      "sha256": "33d6486f323355420550a5923c69f6a73e0dd0e1a795c1e4405e5347c3181309"
+    },
+    {
+      "path": "chapters/10.md",
+      "bytes": 4821,
+      "sha256": "ccec4ebb6dc89709b0dd1d1c70a0736d8ee56c5f0d25a834cfebe3084414d636"
+    },
+    {
+      "path": "chapters/11.md",
+      "bytes": 4990,
+      "sha256": "ae92a922ab5dd065846985ea2c51bacdd1ed96468617d3725436b22d78ec3258"
+    },
+    {
+      "path": "chapters/12.md",
+      "bytes": 5315,
+      "sha256": "27b0cb22bff150052cbf9cc2103ebed64b8b719ff27cd8d659c242fdd80f940c"
+    },
+    {
+      "path": "chapters/13.md",
+      "bytes": 5745,
+      "sha256": "0c44dc042d99e7b4a3411959a52fa15973ddfe14676d38b0752e67818c5c86a7"
+    },
+    {
+      "path": "chapters/14-afterword.md",
+      "bytes": 2191,
+      "sha256": "ccbce0b854defcb114e731f4093e4ab1de9c5cca0ededc6fc2c18303acfd7fde"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 861,
+      "sha256": "b5f9babdc18c86be56fb160372d16a6db0cb2e796fbc1748f95b40b7de98846b"
+    },
+    {
+      "path": "sources/README.md",
+      "bytes": 4538,
+      "sha256": "e64a074ea85cda92b69186b981a3e80724ee539338644255388fbe9b38ff49d7"
+    }
+  ]
+}

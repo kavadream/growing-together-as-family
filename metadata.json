@@ -1,0 +1,32 @@
+{
+  "title": "一家人怎样共同成长",
+  "english_working_title": "Growing Together as a Family",
+  "author": "KK",
+  "language": "zh-CN",
+  "version": "draft-v0.1",
+  "date": "2026-11-03",
+  "review_status": "awaiting author review",
+  "chapter_count": 13,
+  "main_chapters_han_characters": 19441,
+  "manuscript_han_characters": 20935,
+  "case_status": "Original fictional scenes; no real family or child data",
+  "rights_file": "COPYRIGHT.md",
+  "source_index": "sources/README.md",
+  "source_files": [
+    "chapters/00-front.md",
+    "chapters/01.md",
+    "chapters/02.md",
+    "chapters/03.md",
+    "chapters/04.md",
+    "chapters/05.md",
+    "chapters/06.md",
+    "chapters/07.md",
+    "chapters/08.md",
+    "chapters/09.md",
+    "chapters/10.md",
+    "chapters/11.md",
+    "chapters/12.md",
+    "chapters/13.md",
+    "chapters/14-afterword.md"
+  ]
+}
